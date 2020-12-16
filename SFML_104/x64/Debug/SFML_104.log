@@ -1,0 +1,33 @@
+﻿  main.cpp
+C:\Users\nongn\source\repos\newSFML\SFML_104\Pause.h(3,1): warning C4005: 'MAX_ITEMS': macro redefinition
+C:\Users\nongn\source\repos\newSFML\SFML_104\menu.h(4): message : see previous definition of 'MAX_ITEMS'
+C:\Users\nongn\source\repos\newSFML\SFML_104\main.cpp(79,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nongn\source\repos\newSFML\SFML_104\main.cpp(98,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\nongn\source\repos\newSFML\SFML_104\main.cpp(101,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\nongn\source\repos\newSFML\SFML_104\main.cpp(169,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\nongn\source\repos\newSFML\SFML_104\main.cpp(169,31): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\nongn\source\repos\newSFML\SFML_104\main.cpp(199,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\nongn\source\repos\newSFML\SFML_104\main.cpp(199,33): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  menu.cpp
+  Generating Code...
+  SFML_104.vcxproj -> C:\Users\nongn\source\repos\newSFML\x64\Debug\SFML_104.exe
